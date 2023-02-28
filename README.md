@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+# 生物信息学笔记
+## 第一周
+生物信息学不同于基因组学，是从信息的角度来解决生物学问题
+基因是一段信息
+生物信息学的三个steps：信息、模型和算法
+  模型，比如决策树、神经网络，是用代码来解决生物学问题的策略
+  算法，比如动态规划算法，是一个代码的模块
 <!--
 **qiany20/qiany20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
