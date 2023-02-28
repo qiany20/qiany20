@@ -11,8 +11,8 @@
 预计每周投入时间：6-8h  
 第一周-第二周：学习Linux用法，阅读《Bioinformatics Data Skills》chapter1 to chapter5  
 第三周-第五周：学习NGS的分析，阅读《Bioinformatics Data Skills》chapter6 to chapter 12  
-第六周-第十周：学习R用法，阅读《Bioinformatics Data Skills》chapter8 to chapter9
-第十一周-第十四周：学习机器学习，阅读《机器学习》的推荐章节
+第六周-第十周：学习R用法，阅读《Bioinformatics Data Skills》chapter8 to chapter9  
+第十一周-第十四周：学习机器学习，阅读《机器学习》的推荐章节  
 第十五周-第十六周：跟随课堂进度，阅读《Biological Sequence Analysis》
 <!--
 **qiany20/qiany20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
